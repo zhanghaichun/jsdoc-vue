@@ -4,6 +4,8 @@
 
 > A jsdoc plugin that parses *.vue files.
 
+# 这个简单的项目作为我对 jsdoc-vue 的参考项目， 保留在我的 github 上。
+
 利用 jsdoc 自动生成 .vue 文件的文档。
 ### 修改点
 1. 使用了`jsdoc`字典，可以使用`jsdoc`自带的标签来进行编写
